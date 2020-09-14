@@ -1,4 +1,4 @@
-(this.state.indices.pointChange * 1).toFixed(2)import React, { Component } from 'react';
+import React, { Component } from 'react';
 import axios from 'axios';
 import styles from './invest.module.css';
 
